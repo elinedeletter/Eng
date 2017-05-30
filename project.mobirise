@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Elinewebsite_2Eng",
-    "currentPage": "index.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,11 +22,11 @@
       }
     },
     "versionFirst": "3.8.5",
-    "uniqCompNum": 110,
+    "uniqCompNum": 111,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-87704032-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99973913-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -189,6 +189,31 @@
           "title": "INTRO WITH IMAGE",
           "text": "Hi!<br>I am <b>Eline De Letter</b><br>°1992- 25 years old<br>a student in textile design<br>at the LUCA school of arts Ghent<br>I like to work with colors, shapes <br>and environments<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -661,6 +686,31 @@
           "_anchor": "gallery2-2u",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -953,6 +1003,31 @@
           "_anchor": "gallery2-2v",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -1125,6 +1200,31 @@
           "_anchor": "gallery2-2w",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -1437,6 +1537,31 @@
           "_anchor": "gallery2-2x",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -1759,6 +1884,31 @@
           "_anchor": "gallery2-2y",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -2381,6 +2531,31 @@
           "_anchor": "gallery2-2z",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -2991,6 +3166,31 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -3172,6 +3372,31 @@
           },
           "title": "",
           "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -3494,6 +3719,31 @@
           "_anchor": "gallery2-30",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -3661,6 +3911,31 @@
           "title": "Eline De Letter&nbsp;<br>&nbsp;textile design<br>",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -4051,6 +4326,31 @@
           "_anchor": "gallery2-31",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -4277,6 +4577,31 @@
           },
           "title": "collaborations &amp; participations in artistic events/projects",
           "caption": "<p><b>2016 </b></p><p>De Sokkel/an artistic platform at the LUCA school of arts Ghent, where I installed my project <i>The present is a gift</i></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>2017</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Textile museum Tilburg, the Netherlands/in collaboration with the museum I developed a weaving for my bachelor graduation project</span></p><p>Workshop image research (C-day)/as part of my official internship, I organised a workshop at my former highschool, Edugo Campus De Toren, Oostakker</p><p>Tufting atelier Jean Cracco, Ghent/as part of my bachelor assignment,&nbsp;<i>A public space for private practice,</i>&nbsp;I made a hand-tufted carpet in this studio</p><p><br></p><p><br></p><p><br></p><p><br></p><p>&nbsp;</p><p><br></p><p>&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     },
@@ -4416,6 +4741,31 @@
           },
           "title": "<span style=\"line-height: 1.1;\">Do you want to stay in touch with my work?&nbsp;</span><br>just save the following dates!<br><br><br><span style=\"line-height: 1.1;\">27th of april 2017&nbsp;</span><br><span style=\"font-weight: normal;\">S.H.O.T.S. or SHIT HAPPENS ON THURSDAYS, is an artistic platform at the LUCA school of arts Ghent</span><br><span style=\"font-weight: normal;\">Alexianenplein 1<br> <br>I will take part in a group exhibition called <i>Exhibition as a verb, ruimtes overschrijden</i><br>from 17.30u-22.00u<br>free entrance</span><br><i><br></i><br><br>17th &amp; 18th of june 2017 <br><span style=\"font-weight: normal;\">gallery Jan Colle, Jacob Van Caeneghemstraat 16, Ghent<br><br>A group exhibition, third bachelor in textile design, LUCA school of arts Ghent<br><br><span style=\"line-height: 1.1;\"><i>A PUBLIC SPACE FOR PRIVATE PRACTICE</i></span><br><br>opening friday 16th of june at 19.00u<br>free entrance<br>food and drinks will be available!<br><br>saterday 17th of june, from 11.00u-18.00u&nbsp;<br>sunday 18th of june, from 11.00u-17.00u&nbsp;</span><br><br><br><br><span style=\"line-height: 1.1;\">Dutch Design Week Eindhoven octobre 2017</span><br><span style=\"font-weight: normal;\">participation in a group exhibition<br>more information will follow soon...</span>",
           "caption": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f4e500",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;copyright notice all rights reserved (c) Eline De Letter 2017"
         }
       ]
     }
